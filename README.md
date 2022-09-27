@@ -6,7 +6,7 @@ This is an old archive of the original repository, before the code was restructu
 **[→ Please click here to navigate to the current maintained version ←](https://github.com/styczynski/dvc-fs)**
 
 
-# DVC filesystem abstraction layer (0.8.2)
+# DVC filesystem abstraction layer (0.8.3)
 
 [![PyPI version](https://badge.fury.io/py/dvc-fs.svg)](https://badge.fury.io/py/dvc-fs) [![Build and test](https://github.com/covid-genomics/dvc-fs/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/covid-genomics/dvc-fs/actions/workflows/build_and_test.yml) [![Lint code](https://github.com/covid-genomics/dvc-fs/actions/workflows/lint.yml/badge.svg)](https://github.com/covid-genomics/dvc-fs/actions/workflows/lint.yml)
 
@@ -19,7 +19,7 @@ dvc-fs provides basic compatibility (Still work in progress) with [PyFilesystem2
 
 To install this package please do:
 ```bash
-  $ python3 -m pip install "dvc-fs==0.8.2"
+  $ python3 -m pip install "dvc-fs==0.8.3"
 ```
 Or with Poetry:
 ```bash
